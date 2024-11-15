@@ -1,0 +1,113 @@
+Test01:
+    Nhap so luong bo: 3
+    Nhap so luong cuu: 3
+    Nhap so luong de: 3
+    Tieng keu cua toan bo gia suc:
+    Moo!
+    Moo!
+    Moo!
+    Baaa!
+    Baaa!
+    Baaa!
+    Meeh!
+    Meeh!
+    Meeh!
+
+    Thong ke gia suc va sua:
+    Tong so gia suc trong nong trai:
+    Bo: 7 con
+    Cuu: 4 con
+    De: 6 con
+    Tong so sua: 49 lit
+
+Test02:
+    Nhap so luong bo: 4
+    Nhap so luong cuu: 3
+    Nhap so luong de: 4
+    Tieng keu cua toan bo gia suc:
+    Moo!
+    Moo!
+    Moo!
+    Moo!
+    Baaa!
+    Baaa!
+    Baaa!
+    Meeh!
+    Meeh!
+    Meeh!
+    Meeh!
+
+    Thong ke gia suc va sua:
+    Tong so gia suc trong nong trai:
+    Bo: 9 con
+    Cuu: 7 con
+    De: 8 con
+    Tong so sua: 72 lit
+
+Test03:
+    Nhap so luong bo: 5
+    Nhap so luong cuu: 5
+    Nhap so luong de: 5
+    Tieng keu cua toan bo gia suc:
+    Moo!
+    Moo!
+    Moo!
+    Moo!
+    Moo!
+    Baaa!
+    Baaa!
+    Baaa!
+    Baaa!
+    Baaa!
+    Meeh!
+    Meeh!
+    Meeh!
+    Meeh!
+    Meeh!
+
+    Thong ke gia suc va sua:
+    Tong so gia suc trong nong trai:
+    Bo: 6 con
+    Cuu: 8 con
+    De: 11 con
+    Tong so sua: 104 lit
+Test04 : 
+    Nhap so luong bo: 4
+    Nhap so luong cuu: 2
+    Nhap so luong de: 10
+    Tieng keu cua toan bo gia suc:
+    Moo!
+    Moo!
+    Moo!
+    Moo!
+    Baaa!
+    Baaa!
+    Meeh!
+    Meeh!
+    Meeh!
+    Meeh!
+    Meeh!
+    Meeh!
+    Meeh!
+    Meeh!
+    Meeh!
+    Meeh!
+
+    Thong ke gia suc va sua:
+    Tong so gia suc trong nong trai:
+    Bo: 7 con
+    Cuu: 3 con
+    De: 20 con
+    Tong so sua: 75 lit
+Test05:
+    Nhap so luong bo: 0
+    Nhap so luong cuu: 0
+    Nhap so luong de: 0
+    Tieng keu cua toan bo gia suc:
+
+    Thong ke gia suc va sua:
+    Tong so gia suc trong nong trai:
+    Bo: 0 con
+    Cuu: 0 con
+    De: 0 con
+    Tong so sua: 0 lit

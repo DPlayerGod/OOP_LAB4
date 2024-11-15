@@ -1,0 +1,29 @@
+Test01:
+    Deluxe a(3, 50000, 20000); // (So dem, phi dich vu, phi phuc vu)
+    Deluxe b(5, 70000, 30000); // (So dem, phi dich vu, phi phuc vu)
+    Premium c(4, 60000); // (So dem, phi dich vu)
+    Premium d(2, 30000); // (So dem, phi dich vu)
+    Business e(7); // (So dem)
+
+    Doanh thu tong cong:
+    Deluxe: 6170000.0000 VND
+    Premium: 3090000.0000 VND
+    Business: 2100000.0000 VND
+    Doanh thu cao nhat la : 6170000.0000 VND
+
+    Loai phong co doanh thu cao nhat: Deluxe 
+
+Test02:
+    Deluxe a(3, 50000, 20000); // (So dem, phi dich vu, phi phuc vu)
+    Business b(10); // (So dem)
+    Premium c(4, 60000); // (So dem, phi dich vu)
+    Premium d(2, 30000); // (So dem, phi dich vu)
+    Business e(7); // (So dem)
+
+    Doanh thu tong cong:
+    Deluxe: 2320000.0000 VND
+    Premium: 3090000.0000 VND
+    Business: 5100000.0000 VND
+    Doanh thu cao nhat la : 5100000.0000 VND
+
+    Loai phong co doanh thu cao nhat: Business

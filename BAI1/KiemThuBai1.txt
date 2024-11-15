@@ -1,0 +1,79 @@
+Test01: 
+    Nhap thong tin cho Quan Ly: 
+    Nhap ma nhan vien: 10112
+    Nhap ho ten: Dang Quoc Cuong
+    Nhap luong: 2000     
+    Nhap ty le thuong: 0.5
+
+    Nhap thong tin cho Ky Su: 
+    Nhap ma nhan vien: 212113
+    Nhap ho ten: Dang Thanh Kien
+    Nhap luong: 1000000
+    Nhap so gio lam them: 1
+
+    Thong tin Quan Ly: 
+    Ma nhan vien: 10112
+    Ho ten: Dang Quoc Cuong
+    Luong: 2000.0000
+    Ty le thuong: 0.5000
+    Tien thuong: 1000.0000
+
+    Thong tin Ky Su: 
+    Ma nhan vien: 212113
+    Ho ten: Dang Thanh Kien
+    Luong: 1000000.0000
+    So gio lam them: 1.0000
+    Tien thuong lam them: 100000.0000
+
+Test02 : 
+    Nhap thong tin cho Quan Ly: 
+    Nhap ma nhan vien: 10000
+    Nhap ho ten: Dang Quoc Cuong Dep Trai
+    Nhap luong: 10000000
+    Nhap ty le thuong: 1
+
+    Nhap thong tin cho Ky Su: 
+    Nhap ma nhan vien: 102102    
+    Nhap ho ten: Nguyen Ngoc Quy
+    Nhap luong: 0
+    Nhap so gio lam them: 0
+
+    Thong tin Quan Ly: 
+    Ma nhan vien: 10000
+    Ho ten: Dang Quoc Cuong Dep Trai
+    Luong: 10000000.0000
+    Ty le thuong: 1.0000
+    Tien thuong: 10000000.0000
+
+    Thong tin Ky Su: 
+    Ma nhan vien: 102102
+    Ho ten: Nguyen Ngoc Quy
+    Luong: 0.0000
+    So gio lam them: 0.0000
+    Tien thuong lam them: 0.0000
+Test03:
+    Nhap thong tin cho Quan Ly: 
+    Nhap ma nhan vien: 11201
+    Nhap ho ten: Cuong Giau Co
+    Nhap luong: 100000000
+    Nhap ty le thuong: 0.95
+
+    Nhap thong tin cho Ky Su: 
+    Nhap ma nhan vien: 1211
+    Nhap ho ten: Nguyen Huu Binh
+    Nhap luong: 1000121
+    Nhap so gio lam them: 2  
+
+    Thong tin Quan Ly: 
+    Ma nhan vien: 11201
+    Ho ten: Cuong Giau Co
+    Luong: 100000000.0000
+    Ty le thuong: 0.9500
+    Tien thuong: 95000000.0000
+
+    Thong tin Ky Su: 
+    Ma nhan vien: 1211
+    Ho ten: Nguyen Huu Binh
+    Luong: 1000121.0000
+    So gio lam them: 2.0000
+    Tien thuong lam them: 200000.0000
